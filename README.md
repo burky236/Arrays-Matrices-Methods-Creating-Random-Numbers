@@ -1,2 +1,2 @@
-# Arrays-Matrices-Methods-Random-Numbers
+# About arrays,matrices and creating random numbers.
 
